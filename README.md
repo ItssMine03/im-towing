@@ -5,4 +5,5 @@ Solo debes coger meter la carpeta en tu servidor y startearla en el cfg.
 
 QBCORE & ESX
 
-https://media.discordapp.net/attachments/1106367520782434374/1106368215266902066/image.png?width=1331&height=683
+![image](https://github.com/ItssMine03/im-towing/assets/68471264/87570fd8-6383-462c-9747-132f50f6fc5d)
+
